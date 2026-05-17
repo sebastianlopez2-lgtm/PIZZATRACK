@@ -1,3 +1,0 @@
-git add .
-git commit -m "Primer commit: clases Pizza, Nodo, PilaManual, GestionPedidos y Main"
-git push -u origin main
